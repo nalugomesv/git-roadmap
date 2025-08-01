@@ -7,7 +7,8 @@
 
 Este repositório é um **guia prático de estudos sobre versionamento de código** *inspirado* no [**roadmap.sh/git-github**](https://roadmap.sh/git-github), criado para ajudar iniciantes e equipes a aprender **Git, GitHub e boas práticas de desenvolvimento colaborativo**.
 
-🔹 O roadmap é dividido em **módulos progressivos**, com materiais curados e exercícios práticos.
+> 🔹 O roadmap é dividido em **módulos progressivos**, com materiais curados e exercícios práticos.
+> 📖 A principal referência utilizada para orientar o conteúdo deste repositório é o livro [**Pro Git**](https://git-scm.com/book/pt-br/v2), considerado uma das fontes mais completas e gratuitas sobre Git.
 
 📌 O objetivo é **aprender fazendo**, seguindo exemplos reais de fluxo de trabalho.
 
@@ -52,7 +53,9 @@ Este repositório é um **guia prático de estudos sobre versionamento de códig
 ## 📚 Recursos
 
 🔗 [Useful Links](./resources/useful-links.md)  
+
 📄 [Cheatsheets](./resources/cheatsheets.md)
+
 ✅ [Boas Práticas](./resources/best-practices.md)
 
 ---
