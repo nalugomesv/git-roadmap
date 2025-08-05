@@ -29,44 +29,52 @@
 ## 📝 Checklist do módulo:
 
 * [ ] **Criar uma conta no GitHub**
-  Acesse [github.com](https://github.com/) e registre-se para obter uma conta gratuita, que será usada para hospedar seus repositórios remotos.
+
+    - Acesse [github.com](https://github.com/) e registre-se para obter uma conta gratuita, que será usada para hospedar seus repositórios remotos.
 
 * [ ] **Instalar o Git**
-  Baixe e instale o Git no seu sistema a partir de [git-scm.com](https://git-scm.com/). Verifique a instalação com `git --version`.
+  
+    - Baixe e instale o Git no seu sistema a partir de [git-scm.com](https://git-scm.com/). Verifique a instalação com `git --version`.
 
 * [ ] **Configurar seu usuário no Git**
-  Use o mesmo nome de usuário e e-mail da sua conta no GitHub para que seus commits sejam associados corretamente:
+    
+    - Use o mesmo nome de usuário e e-mail da sua conta no GitHub para que seus commits sejam associados corretamente:
 
-  ```bash
-  git config --global user.name "Seu Nome"
-  git config --global user.email "seu@email.com"
-  ```
+        ```bash
+        git config --global user.name "Seu Nome"
+        git config --global user.email "seu@email.com"
+        ```
 
 * [ ] **Configurar chaves SSH para acesso ao GitHub**
-  Configure uma chave SSH para autenticação segura sem senha. Consulte o guia oficial:
-  [Configurar SSH no GitHub](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh)
+    
+    - Configure uma chave SSH para autenticação segura sem senha. Consulte o guia oficial:
+        - [Configurar SSH no GitHub](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh)
 
 * [ ] **Criar um repositório local e fazer seu primeiro commit**
-  Use `git init` para iniciar o repositório e depois:
 
-  ```bash
-  git add .
-  git commit -m "mensagem do commit"
-  ```
+    - Use `git init` para iniciar o repositório e depois:
+
+        ```bash
+        git add .
+        git commit -m "mensagem do commit"
+        ```
 
 * [ ] **Criar um repositório remoto e adicionar ao seu repositório local**
-  Crie um novo repositório no GitHub ou GitLab (sem README) e conecte com:
+    
+    - Crie um novo repositório no GitHub (sem README) e conecte com:
 
-  ```bash
-  git remote add origin URL_DO_REPO
-  ```
+        ```bash
+        git remote add origin URL_DO_REPO
+        ```
 
 * [ ] **Fazer o primeiro push para o repositório remoto**
-  Envie seus commits locais com:
+    
+    -   Envie seus commits locais com:
 
-  ```bash
-  git push -u origin main
-  ```
+        ```bash
+        git push -u origin main
+        ```
 
 * [ ] **Clonar um repositório remoto e alterar o README**
-  Use `git clone URL_DO_REPO`, edite o `README.md`, faça um novo commit e envie a alteração com `git push`.
+
+    - Use `git clone URL_DO_REPO`, edite o `README.md`, faça um novo commit e envie a alteração com `git push`.
