@@ -21,6 +21,7 @@
 ## 🎮 Aprenda de forma divertida
 
 * [Oh My Git! – Jogo educativo para aprender Git](https://ohmygit.org/)
+* [Git Branching Playground](https://learngitbranching.js.org/?locale=pt_BR)
 
 ---
 
