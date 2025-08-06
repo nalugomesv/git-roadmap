@@ -1,3 +1,5 @@
+<!-- [WIP] Work in Progress -->
+
 # 📡 Módulo 03 - Collaboration
 
 Neste módulo, você aprenderá os principais conceitos e práticas para colaborar efetivamente em projetos usando Git. A colaboração é essencial para equipes e envolve o uso de branches, pull requests (PRs) ou merge requests (MRs), revisão de código, comunicação clara e integração contínua.

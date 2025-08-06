@@ -1,3 +1,6 @@
+# **[WIP] Work in Progress**
+
+
 # 🤝 Colaboração com GitLab
 
 Este submódulo apresenta como colaborar usando o GitLab, plataforma completa que combina Git com CI/CD, issues, e gerenciamento integrado.
