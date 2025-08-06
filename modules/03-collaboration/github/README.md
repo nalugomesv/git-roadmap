@@ -1,6 +1,8 @@
+<!-- [WIP] Work in Progress -->
+
 # 🤝 Colaboração com GitHub
 
-Neste submódulo você encontrará materiais para aprender a colaborar usando o GitHub, plataforma amplamente usada para hospedagem de código e desenvolvimento colaborativo.
+>Neste submódulo você encontrará materiais para aprender a colaborar usando o GitHub, plataforma amplamente usada para hospedagem de código e desenvolvimento colaborativo.
 
 ---
 
@@ -13,6 +15,17 @@ Neste submódulo você encontrará materiais para aprender a colaborar usando o 
 - Uso de issues para gerenciamento de tarefas
 - Integração com GitHub Actions para CI/CD básica
 
+---
+
+## 📖 Materiais Recomendados
+
+* 📄 [GitHub Flow](https://guides.github.com/introduction/flow/)
+* 📄 [GitHub - Documentação sobre solicitações de pull](https://docs.github.com/pt/pull-requests)
+* 📄 [Como revisar Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests)
+* 📄 [Sobre issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/about-issues)
+* 📄 [Quickstart for GitHub Issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/configuring-issues/quickstart)
+* 🎥 [28. O que são issues? - Git e Github na Vida Real](https://www.youtube.com/watch?v=JKNaqYJXxbI)
+* 🎥 [Resolvendo problemas com issues no GitHub?](https://www.youtube.com/watch?v=1_Ler6OE5d4)
 ---
 
 ## Fluxo básico: GitHub Flow
@@ -68,13 +81,3 @@ Após isso, abra um Pull Request no GitHub na interface web.
 - Use templates de PR para padronizar informações
 - Faça revisões construtivas e respeitosas
 - Utilize labels e milestones para organizar o trabalho
-
----
-
-## Recursos úteis
-
-* [GitHub Docs - About pull requests](https://docs.github.com/en/pull-requests)
-* [GitHub Flow](https://guides.github.com/introduction/flow/)
-* [Como revisar Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests)
-
----
